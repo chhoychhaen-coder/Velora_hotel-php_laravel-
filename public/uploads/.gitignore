@@ -1,0 +1,10 @@
+*
+!.gitignore
+!site-images/
+!room-types/
+!booking-gallery/
+!about-gallery/
+!hero-slides/
+!site-images/.gitkeep
+!room-types/.gitkeep
+!booking-gallery/.gitkeep
